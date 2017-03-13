@@ -1,0 +1,35 @@
+Script started on Mon 13 Mar 2017 10:46:00 AM CST
+[01;32mandmichi@andmichi[01;34m ~/lab1 $[00m whiami;pwd
+No command 'whiami' found, did you mean:
+ Command 'whoami' from package 'coreutils' (main)
+whiami: command not found
+/home/andmichi/lab1
+[01;32mandmichi@andmichi[01;34m ~/lab1 $[00m whiami;pwd[1Pami;pwdoami;pwd[C[C[C[C[C pwd[1Ppwd
+andmichi
+/home/andmichi/lab1
+[01;32mandmichi@andmichi[01;34m ~/lab1 $[00m git config -l
+user.email=andmichi1998@gmail.com
+user.name=Kazumachi124170
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+[01;32mandmichi@andmichi[01;34m ~/lab1 $[00m git clone https://github.com/
+Cloning into 'github.com'...
+fatal: repository 'https://github.com/' not found
+[01;32mandmichi@andmichi[01;34m ~/lab1 $[00m <your
+bash: your: No such file or directory
+[01;32mandmichi@andmichi[01;34m ~/lab1 $[00m github 
+github: command not found
+[01;32mandmichi@andmichi[01;34m ~/lab1 $[00m account>
+bash: syntax error near unexpected token `newline'
+[01;32mandmichi@andmichi[01;34m ~/lab1 $[00m /lab1.git[K[K[K[K[K[K[K[K[K 
+[01;32mandmichi@andmichi[01;34m ~/lab1 $[00m git clone https://github.com/L[KKax[Kzumachi124170/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+[01;32mandmichi@andmichi[01;34m ~/lab1 $[00m ls
+[0m[01;34mlab1[0m  lab1.script
+[01;32mandmichi@andmichi[01;34m ~/lab1 $[00m exit
+
+Script done on Mon 13 Mar 2017 10:48:14 AM CST
